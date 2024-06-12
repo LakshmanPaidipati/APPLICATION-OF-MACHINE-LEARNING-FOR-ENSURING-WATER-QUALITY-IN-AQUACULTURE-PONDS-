@@ -1,1 +1,2 @@
 # APPLICATION-OF-MACHINE-LEARNING-FOR-ENSURING-WATER-QUALITY-IN-AQUACULTURE-PONDS-
+Aquaculture plays a pivotal role in meeting the growing global demand for seafood. However, ensuring optimal water quality within aquaculture ponds is a pressing challenge. This project proposes a paradigm shift by integrating machine learning to enhance water quality assurance. The system leverages real-time monitoring, predictive analytics, and adaptable algorithms, contributing to sustainability and responsible aquaculture practices.
